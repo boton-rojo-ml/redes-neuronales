@@ -10,7 +10,7 @@ interno, lo que nos lleva a revisar algo de material un poco más teórico. Lo q
 a tratar de combinar con el desarrollo de una red neuronal utilizando Tensorflow, e ir desde
 su insatalación, hasta hacer una de las aplicaciones más comunes en el área de
 el aprendizaje máquina, el reconocimiento de números escritos a mano con la famosa base de datos
-[MNIST]{http://yann.lecun.com/exdb/mnist/}.
+[MNIST](http://yann.lecun.com/exdb/mnist/).
 
 Para el primer día del curso, esperamos:
 
