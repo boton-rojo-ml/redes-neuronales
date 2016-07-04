@@ -1,3 +1,7 @@
-\beamer@endinputifotherversion {3.36pt}
+\beamer@endinputifotherversion {3.33pt}
 \select@language {spanish}
 \beamer@sectionintoc {1}{Motivaci\IeC {\'o}n}{3}{0}{1}
+\beamer@sectionintoc {2}{Modelos simples de una neurona}{9}{0}{2}
+\beamer@sectionintoc {3}{Arquitecturas principales}{16}{0}{3}
+\beamer@sectionintoc {4}{El perceptr\IeC {\'o}n}{23}{0}{4}
+\beamer@sectionintoc {5}{Un ejemplo simple de aprendizaje del perceptr\IeC {\'o}n}{25}{0}{5}
