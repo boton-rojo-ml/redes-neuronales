@@ -1,0 +1,32 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{times}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amsthm}
+\usepackage{amssymb}
+
+\spanishdecimal{.}
+
+\mode<presentation> {
+  \usetheme{Madrid}
+  \setbeamercovered{transparent}
+}
+
+\title[Redes neuronales] %
+{¿Que son las redes neuronales? \\Una introducción informal}
+
+\author[Waissman]{Julio Waissman Vilanova}
+
+\institute[Botón Rojo] %
+{Departamento de Matem\'aticas\\
+  \textbf{Universidad de Sonora}\\
+  para \textbf{Botón Rojo}
+}
+
+\date{}
+
+\subject{Neural Network}
+
